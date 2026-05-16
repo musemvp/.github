@@ -1,1 +1,1 @@
-MuseMVP is a production-ready Next.js starter that helps indie makers launch a personal product MVP quickly.
+MuseMVP is a production-ready Next.js SaaS starter template that helps indie developers and solopreneurs ship their product fast. It includes authentication, payments, database setup, and all essential boilerplate — so builders can skip the repetitive setup and focus entirely on their core product.
