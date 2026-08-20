@@ -20,10 +20,10 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <strong><a href="https://zeus.musemvp.cn">⚡ Zeus</a></strong>
+      <strong><a href="https://zeus.musemvp.cn">Zeus</a></strong>
     </td>
     <td align="center" width="50%">
-      <strong><a href="https://scrip.musemvp.cn">📒 Scrip</a></strong>
+      <strong><a href="https://scrip.musemvp.cn">Scrip</a></strong>
     </td>
   </tr>
   <tr>
@@ -40,10 +40,10 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <strong><a href="https://hikari.musemvp.cn">光 Hikari</a></strong>
+      <strong><a href="https://hikari.musemvp.cn">Hikari</a></strong>
     </td>
     <td align="center" width="50%">
-      <strong><a href="https://athena.musemvp.cn">🫒 Athena</a></strong>
+      <strong><a href="https://athena.musemvp.cn">Athena</a></strong>
     </td>
   </tr>
   <tr>
@@ -60,10 +60,10 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <strong><a href="https://meridian.musemvp.cn">🗺️ Meridian</a></strong>
+      <strong><a href="https://meridian.musemvp.cn">Meridian</a></strong>
     </td>
     <td align="center" width="50%">
-      <strong><a href="https://quire.musemvp.cn">📑 Quire</a></strong>
+      <strong><a href="https://quire.musemvp.cn">Quire</a></strong>
     </td>
   </tr>
   <tr>
