@@ -14,7 +14,7 @@
 <h3 align="center">Collection</h3>
 
 <p align="center">
-  Six landing-page templates. A Founding License includes every live issue — and every one still to come.
+  Seven landing-page templates. A Founding License includes every live issue — and every one still to come.
 </p>
 
 <table>
@@ -77,6 +77,20 @@
         <img alt="Quire — nested pages, floating on a blotter" src="./assets/quire.webp" width="420">
       </a>
     </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong><a href="https://aoi.musemvp.cn">Aoi</a></strong>
+    </td>
+    <td align="center" width="50%"></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://aoi.musemvp.cn">
+        <img alt="Aoi — name her. Keep the call." src="./assets/aoi.webp" width="420">
+      </a>
+    </td>
+    <td align="center"></td>
   </tr>
 </table>
 
