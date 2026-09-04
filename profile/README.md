@@ -14,7 +14,7 @@
 <h3 align="center">Collection</h3>
 
 <p align="center">
-  Seven landing-page templates. A Founding License includes every live issue — and every one still to come.
+  Nine landing-page templates. A Founding License includes every live issue — and every one still to come.
 </p>
 
 <table>
@@ -96,6 +96,22 @@
       <a href="https://solis.musemvp.cn">
         <img alt="Solis — precision 6500K optical raytracing and spectral calibration" src="./assets/solis.webp" width="420">
       </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong><a href="https://kanna.musemvp.cn">Kanna</a></strong>
+    </td>
+    <td align="center" width="50%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://kanna.musemvp.cn">
+        <img alt="Kanna — on-device neural companion & angular night-flight chamber" src="./assets/kanna.webp" width="420">
+      </a>
+    </td>
+    <td align="center">
     </td>
   </tr>
 </table>
