@@ -82,7 +82,9 @@
     <td align="center" width="50%">
       <strong><a href="https://aoi.musemvp.cn">Aoi</a></strong>
     </td>
-    <td align="center" width="50%"></td>
+    <td align="center" width="50%">
+      <strong><a href="https://solis.musemvp.cn">Solis</a></strong>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -90,7 +92,11 @@
         <img alt="Aoi — name her. Keep the call." src="./assets/aoi.webp" width="420">
       </a>
     </td>
-    <td align="center"></td>
+    <td align="center">
+      <a href="https://solis.musemvp.cn">
+        <img alt="Solis — precision 6500K optical raytracing and spectral calibration" src="./assets/solis.webp" width="420">
+      </a>
+    </td>
   </tr>
 </table>
 
