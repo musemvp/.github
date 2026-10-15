@@ -1,126 +1,66 @@
-<h3 align="center">Starter</h3>
-
 <p align="center">
-  <strong><a href="https://musemvp.com">✒️ MuseMVP</a></strong><br>
-  A production Next.js starter. Auth, payments, deploy, email, i18n, and admin — wired so you ship the product, not the plumbing.
+  <a href="https://musemvp.com"><img src="assets/hero.webp" width="100%" alt="MuseMVP — Build a web app in hours. Starter, Workers, and the collection."></a>
 </p>
 
-<p align="center">
-  <a href="https://musemvp.com">
-    <img alt="MuseMVP — a production Next.js starter. Build a web app in hours." src="./assets/muse-core.webp" width="720">
-  </a>
-</p>
-
-<h3 align="center">Collection</h3>
+MuseMVP is a production Next.js starter. Auth, payments, deploy, email, i18n, and admin are already wired, so the first week goes to the product. `apps/web` deploys to Vercel or Docker. `apps/web-cloudflare` deploys to Cloudflare Workers.
 
 <p align="center">
-  Nine landing-page templates. A Founding License includes every live issue — and every one still to come.
+  <a href="https://musemvp.com"><strong>musemvp.com</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://demo.musemvp.com">Demo</a>
+  &nbsp;·&nbsp;
+  <a href="https://musemvp.com/docs">Docs</a>
+  &nbsp;·&nbsp;
+  <a href="https://musemvp.com/templates">All issues</a>
+  &nbsp;·&nbsp;
+  <a href="https://musemvp.com/changelog">Changelog</a>
 </p>
+
+### Collection
+
+Nine landing pages, issued beside the starter. The library includes every live issue.
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <strong><a href="https://zeus.musemvp.cn">Zeus</a></strong>
+    <td width="33%">
+      <a href="https://zeus.musemvp.cn"><strong>Zeus</strong></a><br>
+      The night desk for operational work
     </td>
-    <td align="center" width="50%">
-      <strong><a href="https://scrip.musemvp.cn">Scrip</a></strong>
+    <td width="33%">
+      <a href="https://scrip.musemvp.cn"><strong>Scrip</strong></a><br>
+      Print the usage. Keep the books.
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://zeus.musemvp.cn">
-        <img alt="Zeus — the night desk for operational work" src="./assets/zeus.webp" width="420">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://scrip.musemvp.cn">
-        <img alt="Scrip — print the usage. Keep the books." src="./assets/scrip.webp" width="420">
-      </a>
+    <td width="33%">
+      <a href="https://hikari.musemvp.cn"><strong>Hikari</strong></a><br>
+      A lamp for language
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <strong><a href="https://hikari.musemvp.cn">Hikari</a></strong>
+    <td>
+      <a href="https://athena.musemvp.cn"><strong>Athena</strong></a><br>
+      The brief you can sign
     </td>
-    <td align="center" width="50%">
-      <strong><a href="https://athena.musemvp.cn">Athena</a></strong>
+    <td>
+      <a href="https://meridian.musemvp.cn"><strong>Meridian</strong></a><br>
+      Plot the work, keep the helm
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://hikari.musemvp.cn">
-        <img alt="Hikari — a lamp for language" src="./assets/hikari.webp" width="420">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://athena.musemvp.cn">
-        <img alt="Athena — the brief you can sign" src="./assets/athena.webp" width="420">
-      </a>
+    <td>
+      <a href="https://quire.musemvp.cn"><strong>Quire</strong></a><br>
+      Nested pages on a blotter
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <strong><a href="https://meridian.musemvp.cn">Meridian</a></strong>
+    <td>
+      <a href="https://aoi.musemvp.cn"><strong>Aoi</strong></a><br>
+      Name her. Keep the call.
     </td>
-    <td align="center" width="50%">
-      <strong><a href="https://quire.musemvp.cn">Quire</a></strong>
+    <td>
+      <a href="https://solis.musemvp.cn"><strong>Solis</strong></a><br>
+      6500K optical calibration
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://meridian.musemvp.cn">
-        <img alt="Meridian — plot the work, keep the helm" src="./assets/meridian.webp" width="420">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://quire.musemvp.cn">
-        <img alt="Quire — nested pages, floating on a blotter" src="./assets/quire.webp" width="420">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <strong><a href="https://aoi.musemvp.cn">Aoi</a></strong>
-    </td>
-    <td align="center" width="50%">
-      <strong><a href="https://solis.musemvp.cn">Solis</a></strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://aoi.musemvp.cn">
-        <img alt="Aoi — name her. Keep the call." src="./assets/aoi.webp" width="420">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://solis.musemvp.cn">
-        <img alt="Solis — precision 6500K optical raytracing and spectral calibration" src="./assets/solis.webp" width="420">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <strong><a href="https://kanna.musemvp.cn">Kanna</a></strong>
-    </td>
-    <td align="center" width="50%">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://kanna.musemvp.cn">
-        <img alt="Kanna — on-device neural companion & angular night-flight chamber" src="./assets/kanna.webp" width="420">
-      </a>
-    </td>
-    <td align="center">
+    <td>
+      <a href="https://kanna.musemvp.cn"><strong>Kanna</strong></a><br>
+      On-device, after dark
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <a href="https://musemvp.com">Website</a> ·
-  <a href="https://demo.musemvp.com">Live demo</a> ·
-  <a href="https://musemvp.com/templates">Collection</a> ·
-  <a href="https://musemvp.com/docs">Docs</a> ·
-  <a href="https://discord.gg/3rjhbeXq4r">Discord</a> ·
-  <a href="https://x.com/wztlink1013">X</a>
-</p>
